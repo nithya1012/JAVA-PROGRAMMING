@@ -1,0 +1,11 @@
+class Person{
+public static void main (String[]args)
+{
+int age;
+age=21;
+System.out.println(age);
+age=22;
+age=23;
+System.out.println(age);
+}
+}
